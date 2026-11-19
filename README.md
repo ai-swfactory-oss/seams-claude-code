@@ -2,7 +2,7 @@
 
 Seams for Claude Code and its router: typed boundaries the rest of the factory programs against, each with a fake for tests.
 
-The code arrives by migration from the private monorepo `ai-swfactory/seams`; until then each package holds only a minimal skeleton.
+This repository holds only the guarded skeleton so far: `createClaudeCode` returns a seam that lists no sessions, `createClaudeCodeRouter` returns a seam that lists no routes, and each package's `./testing` holds a fake of its seam.
 
 ## Packages
 
